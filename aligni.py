@@ -1,3 +1,9 @@
+'''
+    File name: aligni.py
+    Author: Keenan Johnson
+    Python Version: 3
+'''
+
 import requests
 import time
 import xml.etree.ElementTree as ET
